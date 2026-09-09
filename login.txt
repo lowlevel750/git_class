@@ -1,1 +1,1 @@
-user.name = "", user.email=""
+user.name = "lowlevel750", user.email="2025cs_ajay_d@nie.ac.in"
