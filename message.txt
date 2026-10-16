@@ -1,2 +1,2 @@
 
-Hello from CI/CD lab
+hi from ci/cd lab.
